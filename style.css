@@ -1,0 +1,21 @@
+body{
+    background-color: #fc88fb;
+}
+input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+#q{
+background-color: #3b3db8;
+color: #863bb8;
+
+}
+
+#e {
+    display: none;
+}
+#r{
+    background-color: #fa5afa;
+    color: #863bb8;
+}
